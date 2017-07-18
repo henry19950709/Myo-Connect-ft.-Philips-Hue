@@ -29,7 +29,7 @@ The code is for only one Myo and one Philips Hue. Note that I initialize the myo
 Please pass the absolute path of the Myo sdk so that the initialization goes well.
 
 
-### Example
+## Example
 
 ### Functions
 	#Make Philips hue with ID 3 turn on (False means turn off) 
